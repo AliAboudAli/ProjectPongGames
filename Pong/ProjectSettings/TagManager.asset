@@ -8,6 +8,8 @@ TagManager:
   - Paddle
   - RightBarrier
   - Leftbarrier
+  - Undefined
+  - LeftBarrier
   layers:
   - Default
   - TransparentFX
