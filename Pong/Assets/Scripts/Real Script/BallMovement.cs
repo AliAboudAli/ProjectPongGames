@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
 public class BallMovement : MonoBehaviour
 {
-    private float moveSpeed = 5f;
+    private float moveSpeed = 15f;
     private Vector2 direction;
 
     // Start is called before the first frame update
@@ -60,7 +61,8 @@ public class BallMovement : MonoBehaviour
     }
     private void Increaseballspeed()
     {
-        moveSpeed = moveSpeed + Time.deltaTime * 0.3f;
+        moveSpeed = moveSpeed + Time.deltaTime * 0.5f;
 
     }
+    
 }
