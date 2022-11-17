@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class BallMovement : MonoBehaviour
 {
-    private float moveSpeed = 15f;
+    private float moveSpeed = 20f;
     private Vector2 direction;
 
     // Start is called before the first frame update
@@ -49,7 +49,7 @@ public class BallMovement : MonoBehaviour
         {
 
             ResetBall();
-            GameObject.Find("Canvas").GetComponent<ScoreScript>().AddP2Score();
+            GameObject.Find("Canvas").GetComponent<ScoreScript>().AddP1Score();
         }
     }
     public void ResetBall()

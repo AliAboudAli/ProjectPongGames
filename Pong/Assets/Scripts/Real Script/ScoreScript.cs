@@ -17,7 +17,7 @@ public class ScoreScript : MonoBehaviour
     
     public void AddP2Score()
     {
-        player2Score ++;
+        player2Score++;
         p2Text.text = player2Score.ToString();
     }
 }
