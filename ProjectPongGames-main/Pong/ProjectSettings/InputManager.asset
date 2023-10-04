@@ -9,8 +9,8 @@ InputManager:
     m_Name: PRightMove
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: w
-    positiveButton: s
+    negativeButton: z
+    positiveButton: a
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3
@@ -25,10 +25,10 @@ InputManager:
     m_Name: PLeftMove
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: up
-    positiveButton: down
-    altNegativeButton: 
-    altPositiveButton: 
+    negativeButton: m
+    positiveButton: k
+    altNegativeButton: s
+    altPositiveButton: w
     gravity: 3
     dead: 0.001
     sensitivity: 3

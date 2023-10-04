@@ -600,8 +600,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 373.1536, y: 83.55421}
-  m_SizeDelta: {x: 33.8836, y: 148.4312}
+  m_AnchoredPosition: {x: 539.8, y: 167.1164}
+  m_SizeDelta: {x: 49.0326, y: 214.7928}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &333040142
 MonoBehaviour:
@@ -817,8 +817,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -446.97708, y: -186.59502}
-  m_SizeDelta: {x: 11.2236, y: 20.5115}
+  m_AnchoredPosition: {x: -647, y: -150}
+  m_SizeDelta: {x: 16.2414, y: 29.6818}
   m_Pivot: {x: -2.1330328, y: 0.5}
 --- !u!114 &411037824
 MonoBehaviour:
@@ -842,7 +842,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 74feb79e2d31ac141b0bf7dbca9b88c9, type: 3}
-    m_FontSize: 10
+    m_FontSize: 18
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -1187,8 +1187,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -373.1736, y: 83.554214}
-  m_SizeDelta: {x: 33.8836, y: 148.4312}
+  m_AnchoredPosition: {x: -540.2, y: 167.1164}
+  m_SizeDelta: {x: 49.0326, y: 214.7928}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1011409103
 MonoBehaviour:
@@ -1731,8 +1731,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 497.26538, y: -186.59502}
-  m_SizeDelta: {x: 9.2258, y: 14.5929}
+  m_AnchoredPosition: {x: 719.4005, y: -150}
+  m_SizeDelta: {x: 13.3506, y: 21.1171}
   m_Pivot: {x: 5.8565073, y: 0.5}
 --- !u!114 &1534796146
 MonoBehaviour:
@@ -1756,7 +1756,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 74feb79e2d31ac141b0bf7dbca9b88c9, type: 3}
-    m_FontSize: 10
+    m_FontSize: 18
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -1952,7 +1952,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
